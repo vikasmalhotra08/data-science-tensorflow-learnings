@@ -1,10 +1,10 @@
 # TensorFlow Tutorials
 
-Original credit goes to the author of the below repo. I have tried to understand the tutorial and add my own titbits. 
+Hello! Welcome to this tutorial series on how to use Tensorflow for various tasks in your projects. The aim of this tutorial series is to teach you various concepts of Tensorflow along with segways into concepts that provide context on why are we trying to solve a data science problem. 
 
-[Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+You'll notice a lot of comments in the notebooks, so please take your time in going through the notebook material and ask me questions if any on something that might seem ambiguous.
 
-Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
+I have swapped out the traditional digit data with fashionMNIST data set in the below tutorials so as to update the tutorials with using new data set. 
 
 ## Introduction
 
@@ -16,4 +16,17 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 ## Tutorials
 
 1. Simple Linear Model
-([Notebook](https://github.com/vikasmalhotra08/courses/tensorflow-learnings/blob/master/01_Simple_Linear_Model.ipynb))
+([Notebook](https://github.com/vikasmalhotra08/data-science-tensorflow-learnings/blob/master/01_Simple_Linear_Model.ipynb))
+
+
+2. Convolutional Neural Network
+([Notebook](https://github.com/vikasmalhotra08/data-science-tensorflow-learnings/blob/master/02_Convolutional_Neural_Network.ipynb))
+
+3. Keras API 
+([Notebook](https://github.com/vikasmalhotra08/data-science-tensorflow-learnings/blob/master/03_Keras_API.ipynb))
+
+Original credit goes to the author of the below repo. I have tried to understand the tutorial and add my own titbits. 
+
+[Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
+Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
