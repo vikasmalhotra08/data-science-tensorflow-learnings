@@ -22,6 +22,8 @@ I have swapped out the traditional digit data with fashionMNIST data set in the 
 2. Convolutional Neural Network
 ([Notebook](https://github.com/vikasmalhotra08/data-science-tensorflow-learnings/blob/master/02_Convolutional_Neural_Network.ipynb))
 
+3. Keras API 
+([Notebook](https://github.com/vikasmalhotra08/data-science-tensorflow-learnings/blob/master/03_Keras_API.ipynb))
 
 Original credit goes to the author of the below repo. I have tried to understand the tutorial and add my own titbits. 
 
